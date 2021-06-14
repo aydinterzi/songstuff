@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJGnKJzEoWdXLGTRTGgTXIilfDuBkl0+ISbB/PU/EFLbOrJaRF+ynNej+W0dH9Kxf1KHbH1y/7LAqOlO5HyYig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aydin\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aydin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
